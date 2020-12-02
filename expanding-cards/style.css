@@ -48,7 +48,7 @@
 
   .panel.active h3 {
     opacity: 1;
-    padding-left: 30px;
+    padding-left: 20px;
     transition: opacity 0.3s ease-in 0.4s;
   }
 
